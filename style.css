@@ -173,6 +173,10 @@ max-width: 350px;
     border: none;
     background-color: var(--black);
     color: var(--white);
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 3.64px;
     cursor: pointer;
     transition: all 0.35s ease
 }
@@ -763,6 +767,7 @@ footer.locationlower{
     left: 156px;
     z-index: 1;
     cursor: pointer;
+    
 
 }
 
@@ -774,6 +779,10 @@ footer.locationlower{
     border: none;
     background-color: var(--black);
     color: var(--white);
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 3.64px;
     cursor:pointer;
     transition: all 0.35s ease;
 }
